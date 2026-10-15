@@ -1,0 +1,17 @@
+# Bert - Open Questions for DM
+
+This table tracks setting decisions, approvals, and campaign hooks that remain open for Bert. The full private character history is in [Bert - DM Eyes Only](<./Bert-DM-Eyes-Only.md>).
+
+| Area | Question for the DM | Current working assumption | DM decision |
+|---|---|---|---|
+| Restoration and escape | Can Bert's restoration debt, the scholars' broken promise, and its escape replace the earlier suggestion that the Aurora Watch would use the recovered automaton? | Bert's demonstrated sentience prevents an open transfer as military salvage. The scholars impose a finite debt, renege after it is paid, and lose control of Bert when it escapes. | Pending |
+| Settlement | What is the correct name and spelling of the settlement previously recorded as "Bazzazan"? | It is near the site of Bert's excavation and final battle. | Pending |
+| Ancient service | Which kingdom, army, unit, conflict, and era best fit Bert's military service? | These details should fit the campaign setting without changing Bert's role as an arcane fire-support asset. | Pending |
+| Insignia | Does the yellow hawk insignia represent Bert's army or its specific unit? | Either interpretation works. | Pending |
+| Final battle | How closely should Bert's final battle connect to the Calamity? | The battle occurred near the settlement associated with Bert's excavation. | Pending |
+| Final battle | What caused the energy blast, and what happened to Bert's squad? | Bert was disabled before or during a chaotic retreat and does not know the squad's fate. | Pending |
+| Dormancy | Exactly how long was Bert dormant? | It was buried for centuries and cannot measure the elapsed time. | Pending |
+| Scholars | Which institution sponsored the excavation and restoration team? | A formal scholarly institution funded the work and now avoids public scrutiny of its broken agreement with Bert. | Pending |
+| Campaign hook | Should the institution's quiet claim over Bert become an active campaign hook? | The claim exists, but the institution does not openly pursue Bert unless it becomes useful to the campaign. | Pending |
+| Hidden origin | Which details of Bert's creator, original purpose, acquisition, and memory lock should remain available for later revelation? | Bert's pre-service memories are inaccessible, leaving these details open for the DM. | Pending |
+| Party connection | Did one or more current party members help Bert escape, participate in its repayment work, or meet it afterward? | The players may establish this collaboratively without being given suggested versions of how they met. | Pending |
