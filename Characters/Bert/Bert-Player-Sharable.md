@@ -12,6 +12,8 @@ It had no official military rank. Its operational role was arcane fire-support s
 
 Bert has a lean, long-limbed frame built from utilitarian metal components. Simple silver-gray plates cover exposed dark machinery at the neck, abdomen, and compact hinged limb joints. Its smooth yellow faceplate has small, dark, button-like optical sensors and no expressive human features.
 
+Bert stands 5 feet 6 inches tall and weighs approximately 240 pounds. Its exact age is unknown, but it remembers a little more than a decade of active life.
+
 The armor is weathered but intact, with restrained scratches, shallow dents, rivets, and repair seams. An angular yellow hawk-head insignia marks its chest. A small yellow armor patch is riveted over one thigh plate; the patch is a repair rather than a second insignia.
 
 The image is the reference for Bert's body design.
@@ -40,7 +42,7 @@ Some of Bert's magical habits came from ordinary soldiers. For example, it was t
 
 Scholars recovered and restored Bert after a long period of inactivity. They charged it a finite debt for the excavation, transport, repairs, and a replacement spellbook. Bert accepted the arrangement and repaid that debt through field work and adventuring jobs.
 
-After the debt was paid, the scholars broke their promise to release Bert and attempted to keep control of it. Bert escaped and now approaches organizations cautiously, judging them by whether they honor their agreements and treat its service as something given voluntarily.
+After the debt was paid, the scholars broke their promise to release Bert and attempted to keep control of it. Bert escaped. The experience made it hesitant to trust first impressions of structured organizations, but it did not temper its desire to find one worth serving.
 
 One or more current party members may have participated in Bert's repayment work or helped it escape. That connection is optional and can be developed collaboratively by the players.
 

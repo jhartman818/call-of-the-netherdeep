@@ -9,8 +9,12 @@ Setting decisions, approvals, and unresolved campaign hooks are tracked in [Open
 | Field | Detail |
 |---|---|
 | Rules | Warforged species, Evocation wizard |
+| D&D Beyond | [SC-AFS-3-6 character sheet](https://www.dndbeyond.com/characters/172372458) |
 | Fiction | Ancient sentient military automaton |
 | Pronouns | It/its |
+| Height | 5 feet 6 inches |
+| Weight | Approximately 240 pounds |
+| Age | Unknown; at least several centuries old, with a little more than a decade of remembered active life. D&D Beyond uses 926 as a required numeric placeholder. |
 | Personal name | Bert |
 | Formal designation | SC-AFS-3-6 |
 | Designation meaning | Support Construct - Arcane Fire-Support - Version 3 - Serial 6 |
@@ -18,14 +22,14 @@ Setting decisions, approvals, and unresolved campaign hooks are tracked in [Open
 | Operational role | Arcane fire-support specialist |
 | Official historical status | Military property and equipment, not a soldier or legal person |
 | Modern timeline | Reactivated approximately eighteen months before the campaign |
-| Current motivation | Find useful work and determine whether any organization is worthy of its voluntary service |
+| Current motivation | Find useful work and an organization worthy of enlisting in |
 | Central theme | Whether Bert has value independent of usefulness, ownership, or orders |
 
 ## Character Core
 
-Bert considers itself a sentient asset rather than a person. It assumes that an asset's value comes from being useful, even though it now insists that its service must be given voluntarily. Its history repeatedly reinforces the idea that other people value it for what it can do: an army used it as equipment, scholars restored it for research and labor, and its current livelihood depends upon adventuring work.
+Bert considers itself a sentient asset rather than a person. It assumes that an asset's value comes from being useful and that a capable asset ought to serve within a reliable organization. With no surviving chain of command, it seeks an organization worthy of enlisting in. Bert interprets enlistment less as an exercise of personal freedom than as the correct placement of an unassigned asset. Its history repeatedly reinforces the idea that other people value it for what it can do: an army used it as equipment, scholars restored it for research and labor, and its current livelihood depends upon adventuring work.
 
-The intended character arc is not necessarily that Bert decides it has a soul or adopts the word "person." The more important question is whether it can recognize that its existence has value when it is not fulfilling a function for someone else.
+The intended character arc is not necessarily that Bert decides it has a soul or adopts the word "person." The more important questions are whether it can recognize that its existence has value when it is not fulfilling a function for someone else and whether service can be chosen rather than imposed.
 
 ## Appearance
 
@@ -34,6 +38,8 @@ The intended character arc is not necessarily that Bert decides it has a soul or
 The image above is the authoritative reference for Bert's overall body design.
 
 Bert has a lean, long-limbed humanoid frame built from utilitarian metal components rather than a person-shaped suit of armor. Broad but uncomplicated silver-gray plates protect the chest, shoulders, forearms, pelvis, thighs, and lower legs. Dark internal mechanisms remain deliberately visible at the neck, abdomen, and hinged limb joints. Its narrow articulated waist, cylindrical limbs, and five-fingered mechanical hands give it an unmistakably constructed silhouette.
+
+It stands 5 feet 6 inches tall and weighs approximately 240 pounds. Its weight reflects its metal frame and armor without making its lean construction exceptionally massive.
 
 Its head is a vertically elongated metal capsule. A smooth yellow enamel plate covers most of the face, interrupted only by small, dark, button-like optical apertures. It has no mouth, nose, or expressive human anatomy. Silver cranial plating surrounds the faceplate, with circular mechanical housings at the sides of the head and a flexible, densely layered mechanical neck beneath it.
 
@@ -102,7 +108,7 @@ The assault was tactically effective but ruined the real plan, exposed the squad
 
 ### Final Battle
 
-The exact army, kingdom, conflict, era, and battle remain open for setting coordination. The earlier DM conversation connected the concept to the settlement recorded as "Bazzazan," where scholars excavate old war matériel and the effects of the Calamity remain visible. The spelling and historical fit need confirmation.
+The exact army, kingdom, conflict, era, and battle remain open for setting coordination. The earlier DM conversation connected the concept to Bazzoxan, where scholars excavate old war matériel and the effects of the Calamity remain visible. The historical fit still needs confirmation.
 
 During a disastrous battle near that settlement, an energy blast detonated in the middle of the squad. Bert was knocked unconscious before or as the battle collapsed into a chaotic retreat. Its final clear sensory memory is someone shouting:
 
@@ -151,7 +157,7 @@ Once Bert completed the agreed service, the entire restoration team reneged on i
 
 The restoration team and its institution quietly maintain a claim over Bert but avoid overt public pursuit. Public scrutiny would expose their effort to retain a sentient construct after breaking the agreement.
 
-The betrayal left Bert distrustful of modern organizations and wistful for the old squad's reliable structure and camaraderie, though not for the army's ownership. Bert now seeks useful work while judging whether any organization is worthy of service given voluntarily.
+The betrayal made Bert hesitant to trust first impressions of modern organizations, but it did not temper its desire to find one worth serving. Bert remains wistful for the old squad's reliable structure and camaraderie. It seeks to enlist in an organization that can provide both without repeating the scholars' broken promises or claiming it as private property.
 
 ## Present Day
 
@@ -173,7 +179,7 @@ Safe to share:
 - The Battery-to-Bert nickname and unofficial "Specialist Bert" title.
 - Its literal demeanor, dry military humor, squad vocabulary, laziness, gambling, and combat professionalism.
 - Its appearance, Evocation specialization, standard spellbook mechanics, and soldier-taught finger guns.
-- That it is cautious about organizations and values reliable companions.
+- That it is hesitant to trust first impressions of organizations but still wants structured service and reliable companions.
 - The broad history of its restoration, finite debt, the scholars' broken agreement, and its escape.
 - That a current party member may have participated in its repayment work or helped it escape if the players choose that connection.
 
