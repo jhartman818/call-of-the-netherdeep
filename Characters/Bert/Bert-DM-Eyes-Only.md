@@ -140,7 +140,7 @@ Its internal timekeeping was destroyed, so it could not measure the intervals be
 
 ### Excavation and Reactivation
 
-A team from the **Allegiance of Allsight** recovered Bert. The Allegiance is a group of scholars who research the Calamity war, excavate its battle sites, and look for ways to make Bazzoxan safe again. Whether its members are good, morally grey, or villainous is still being discussed with the DM. Several scholars and craftspeople collaborated on the restoration; no single individual was its sole restorer or second creator.
+A team from the **Allegiance of Allsight** recovered Bert. The Allegiance is a group of scholars who research the Calamity war, excavate its battle sites, and look for ways to make Bazzoxan safe again. Published sources portray the Allegiance as a neutral, apolitical, and somewhat secretive academic guild. Several scholars and craftspeople collaborated on the restoration; no single individual was its sole restorer or second creator.
 
 The team hoped to recover testimony from an ancient witness and study Bert's unusual construction and spellcasting. The apparent ruin required less work than expected. Its arcane core and essential memory structures had survived in protective shutdown. Once the team stabilized the core and restored minimal power, dormant self-repair routines completed much of the physical work.
 
@@ -159,16 +159,13 @@ The scholars established that the kingdom and army were gone and almost certainl
 
 The Allegiance provided Bert with a replacement spellbook. It is a well-made but otherwise standard leatherbound tome. **SC-AFS-3-6** is embossed in the upper-right corner of its front cover. Bert uses normal wizard spellbook, preparation, copying, and spell-learning mechanics.
 
-### From Restoration to Adventuring (Pending)
+### Field Agent for the Allegiance
 
-How Bert went from restoration to adventuring is still under discussion with the DM. The DM originally suggested that the Aurora Watch, Bazzoxan's military, saw Bert's usefulness and put it to work fighting demons and helping rebuild after battles. She has also agreed that Bert could owe the Allegiance a restoration debt.
+Bert owes the Allegiance a restoration debt for its excavation, transport, core stabilization, repair, and replacement spellbook. Bert accepts the debt as legitimate and is working it off as a field agent. When a returning memory suggests a historical battle site, the Allegiance sends Bert to investigate it, and Bert takes on other adventuring work between assignments. The arrangement serves both sides: the scholars gain an ancient witness to the Calamity war, and Bert gains a way to pursue its fragmented memories.
 
-Options under consideration:
+The Allegiance is neutral and self-interested rather than villainous. Its scholars treat Bert fairly, but they value it mostly for what it remembers and can reach. Bert honors the arrangement but does not see the Allegiance's scholarly agenda as a worthy cause to serve. To Bert, it is an obligation to fulfill, not an organization to enlist in.
 
-- **Field agent:** The Allegiance still employs Bert and sends it to historical battle sites suggested by its returning memories. In this version Bert may never have owed a debt. The DM responded favorably to this idea.
-- **Debt, betrayal, and escape (earlier draft):** The scholars recognized Bert as sentient and promised to release it once it repaid a finite debt for excavation, transport, core stabilization, repair, and the replacement spellbook. Bert repaid it through field work. The restoration team then broke its promise and asserted continued control, and Bert escaped. The institution quietly maintains its claim but avoids public pursuit, since scrutiny would expose its effort to keep a sentient construct. The betrayal made Bert hesitant to trust first impressions of modern organizations without tempering its desire to find one worth serving.
-
-In either version, Bert remains wistful for the old squad's reliable structure and camaraderie. It seeks to enlist in an organization that can provide both without claiming it as private property.
+Bert is glad to be in a squad environment again. The adventuring party gives it some of the camaraderie and shared purpose it misses from its old squad. While paying off its debt, Bert is also looking for the right combination of squad and cause: companions it can rely on, serving a purpose worth its loyalty, that would value it for more than its usefulness.
 
 ## Present Day
 
@@ -193,17 +190,17 @@ Included in the player-shareable document:
 - Its literal demeanor, dry military humor, squad vocabulary, laziness, gambling, and combat professionalism.
 - Its appearance, Evocation specialization, standard spellbook mechanics, and soldier-taught finger guns.
 - That it remembers camp life vividly but its battles only in fragments, and that it lay buried for centuries after its final battle.
-- That the Allegiance of Allsight restored it.
+- That the Allegiance of Allsight restored it and still employs it as a field agent.
 
 Known to the party in character, but left for play:
 
 - Lieutenant Veylan and the named ancient squad members.
 - Jenkins and Danovic's deception.
 - The surviving fragments of the final battle.
-- The details of the restoration and Bert's subsequent work.
+- The details of the restoration and Bert's field-agent assignments.
 
 Private:
 
 - The pre-service memory lock and unknown origin.
 - Bert's feelings of abandonment and its vague memory of the squad retreating without it.
-- The Allegiance's true nature and possible future plans.
+- That Bert regards its work for the Allegiance as a debt to repay rather than a cause worth serving.

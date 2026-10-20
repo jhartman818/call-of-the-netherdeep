@@ -42,7 +42,7 @@ Some of Bert's magical habits came from ordinary soldiers. For example, it was t
 
 Bert served during the Calamity. It remembers daily life with its old squad vividly, including the downtime, the jokes, and the slang, but its memories of the fighting are fragmented. It was disabled during its final battle and lay buried for centuries.
 
-Scholars from the Allegiance of Allsight excavated and restored Bert about eighteen months before the campaign. Bert is happy to tell stories about its old squad but says little about how its service ended.
+Scholars from the Allegiance of Allsight excavated and restored Bert about eighteen months before the campaign. Bert is working off its restoration debt as an Allegiance field agent. The Allegiance sends it to investigate historical battle sites when its memories return, and Bert takes other adventuring work between assignments. Bert is happy to tell stories about its old squad but says little about how its service ended.
 
 Any connection between Bert and another party member from before the group formed will be worked out in Session 0.
 
