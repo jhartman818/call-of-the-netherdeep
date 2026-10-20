@@ -38,13 +38,13 @@ Its spellbook is a well-made but otherwise ordinary leatherbound tome with **SC-
 
 Some of Bert's magical habits came from ordinary soldiers. For example, it was taught that *Fire Bolt* works better if accompanied by finger guns and that *Fireball* should be called "serving breakfast" so the enemy does not know what is coming.
 
-## Restoration and Escape
+## Service and Restoration
 
-Scholars recovered and restored Bert after a long period of inactivity. They charged it a finite debt for the excavation, transport, repairs, and a replacement spellbook. Bert accepted the arrangement and repaid that debt through field work and adventuring jobs.
+Bert served during the Calamity. It remembers daily life with its old squad vividly, including the downtime, the jokes, and the slang, but its memories of the fighting are fragmented. It was disabled during its final battle and lay buried for centuries.
 
-After the debt was paid, the scholars broke their promise to release Bert and attempted to keep control of it. Bert escaped. The experience made it hesitant to trust first impressions of structured organizations, but it did not temper its desire to find one worth serving.
+Scholars from the Allegiance of Allsight excavated and restored Bert about eighteen months before the campaign. Bert is happy to tell stories about its old squad but says little about how its service ended.
 
-One or more current party members may have participated in Bert's repayment work or helped it escape. That connection is optional and can be developed collaboratively by the players.
+Any connection between Bert and another party member from before the group formed will be worked out in Session 0.
 
 ## Existing Party History
 

@@ -22,14 +22,18 @@ Setting decisions, approvals, and unresolved campaign hooks are tracked in [Open
 | Operational role | Arcane fire-support specialist |
 | Official historical status | Military property and equipment, not a soldier or legal person |
 | Modern timeline | Reactivated approximately eighteen months before the campaign |
-| Current motivation | Find useful work and an organization worthy of enlisting in |
-| Central theme | Whether Bert has value independent of usefulness, ownership, or orders |
+| Ancient service | The Calamity, on the side of the Prime Deities |
+| Restored by | Allegiance of Allsight |
+| Current motivation | Learn what happened in its final battle and why it was left behind, while seeking an organization worthy of enlisting in |
+| Central theme | What Bert is worth after being discarded, and whether that worth can come from itself rather than usefulness, ownership, or orders |
 
 ## Character Core
 
 Bert considers itself a sentient asset rather than a person. It assumes that an asset's value comes from being useful and that a capable asset ought to serve within a reliable organization. With no surviving chain of command, it seeks an organization worthy of enlisting in. Bert interprets enlistment less as an exercise of personal freedom than as the correct placement of an unassigned asset. Its history repeatedly reinforces the idea that other people value it for what it can do: an army used it as equipment, scholars restored it for research and labor, and its current livelihood depends upon adventuring work.
 
-The intended character arc is not necessarily that Bert decides it has a soul or adopts the word "person." The more important questions are whether it can recognize that its existence has value when it is not fulfilling a function for someone else and whether service can be chosen rather than imposed.
+The arc begins with the question, "Who was I, or what happened, that I was so easily discarded?" Bert may or may not discover why it was left behind in battle or why the army acquired it in the first place. The intended resolution is that its worth is what it gives itself. The arc is not necessarily about Bert deciding it has a soul or adopting the word "person." The more important questions are whether it can recognize that its existence has value when it is not fulfilling a function for someone else and whether service can be chosen rather than imposed.
+
+The arc is meant to run alongside the main campaign rather than drive it. It does not need to be resolved during play, and the DM is under no obligation to build around it. More backstory may be added over time, provided it does not complicate the campaign.
 
 ## Appearance
 
@@ -51,7 +55,7 @@ Its strongest color accents are:
 - An angular yellow hawk-head insignia across the chest
 - A small yellow armor repair patch riveted over one thigh plate
 
-The thigh patch is a repair, not an insignia or identification marking. The hawk represents either Bert's ancient army or its specific unit; that distinction remains open for setting coordination.
+The thigh patch is a repair, not an insignia or identification marking. The hawk is the insignia of Bert's specific unit.
 
 ![Bert action-pose reference](<./Bert-Pose-Reference.png>)
 
@@ -64,6 +68,12 @@ The second image is a reference for pose, composition, and spellcasting only. It
 Bert does not remember its creator, original purpose, or existence before military service. As part of its acquisition and intake, its earlier memories were wiped or locked away. Bert does not know who performed the procedure, why it was done, whether the memories were destroyed, or whether they remain recoverable.
 
 Its wizard knowledge predates the memory lock. Bert retained procedural spellcasting and a basic repertoire without the autobiographical memories explaining where, why, or from whom it learned magic. The military recognized that existing capacity and trained it as arcane fire support, but Bert cannot determine whether artillery was its original purpose.
+
+### Memory Gaps
+
+Bert's memories of military service are uneven. Life in camp with its squad is vivid: downtime, gambling, jokes, barracks habits, and squad slang. Operations, battles, and the events leading up to its final battle survive only as fragments. Its memories from before military service remain locked away, as described above.
+
+The DM plans to place memory shards in the campaign for Bert to find. Recovering them is Bert's main driving force: it wants to learn what happened during and before its final battle, why the army had to retreat, and why it was left behind.
 
 ### Military Intake
 
@@ -108,13 +118,15 @@ The assault was tactically effective but ruined the real plan, exposed the squad
 
 ### Final Battle
 
-The exact army, kingdom, conflict, era, and battle remain open for setting coordination. The earlier DM conversation connected the concept to Bazzoxan, where scholars excavate old war matériel and the effects of the Calamity remain visible. The historical fit still needs confirmation.
+Bert served during the Calamity on the side of the Prime Deities. The specific kingdom, army, and unit remain to be developed with the DM.
 
-During a disastrous battle near that settlement, an energy blast detonated in the middle of the squad. Bert was knocked unconscious before or as the battle collapsed into a chaotic retreat. Its final clear sensory memory is someone shouting:
+Bert fell near Bazzoxan, where it was later excavated, long before the war ended. Its memory of the battle is fragmented:
 
-> "Oh my god, retreat!"
+- The army had assembled for battle.
+- At some point, the soldiers realized that something catastrophic was about to happen. Bert vividly remembers someone shouting "Oh my god, retreat!" but cannot recall what it was seeing at the time.
+- During the retreat, Bert fell behind for reasons it cannot remember. Its last memory before blackness is a vague image of the squad retreating without it.
 
-Bert did not witness who escaped, whether anyone knew it remained recoverable, or whether anyone attempted to return. Its surviving memory contains no deliberate decision to abandon it.
+Bert does not know what caused the catastrophe, whether it was injured or disabled before falling behind, or whether anyone chose to leave it. It knows only that it was left behind. These details are deliberately undecided and can be developed as the character is played.
 
 ### Dormancy
 
@@ -128,7 +140,7 @@ Its internal timekeeping was destroyed, so it could not measure the intervals be
 
 ### Excavation and Reactivation
 
-A formal scholarly excavation team cataloging old war matériel recovered Bert. Several scholars and craftspeople collaborated on the restoration; no single individual was its sole restorer or second creator.
+A team from the **Allegiance of Allsight** recovered Bert. The Allegiance is a group of scholars who research the Calamity war, excavate its battle sites, and look for ways to make Bazzoxan safe again. Whether its members are good, morally grey, or villainous is still being discussed with the DM. Several scholars and craftspeople collaborated on the restoration; no single individual was its sole restorer or second creator.
 
 The team hoped to recover testimony from an ancient witness and study Bert's unusual construction and spellcasting. The apparent ruin required less work than expected. Its arcane core and essential memory structures had survived in protective shutdown. Once the team stabilized the core and restored minimal power, dormant self-repair routines completed much of the physical work.
 
@@ -141,29 +153,28 @@ The restoration remained incomplete:
 - The pre-service memory lock remained intact.
 - Bert's original spellbook had been lost.
 
-Upon regaining full consciousness, Bert gave its complete designation, reported for duty, and requested the status and location of its squad. When told that centuries had passed, it verified the dates and evidence before asking, in order, about its squad, army, and kingdom.
+Upon regaining full consciousness, Bert gave its complete designation, reported for duty, and requested the status and location of its squad. When told that centuries had passed, it verified the dates and evidence before asking, in order, about its squad, army, and kingdom. It was surprised to learn that the war had ended.
 
 The scholars established that the kingdom and army were gone and almost certainly destroyed, with no surviving command structure to which Bert could report. Bert therefore regarded its old military obligation as effectively ended, although the army and squad remained matters of historical curiosity and personal attachment.
 
-### Restoration Debt, Betrayal, and Escape
+The Allegiance provided Bert with a replacement spellbook. It is a well-made but otherwise standard leatherbound tome. **SC-AFS-3-6** is embossed in the upper-right corner of its front cover. Bert uses normal wizard spellbook, preparation, copying, and spell-learning mechanics.
 
-Bert's coherent awareness, reasoning, and self-directed responses established that it was a sentient construct rather than merely recoverable war matériel. The scholars acknowledged that permanent ownership could not be justified and promised release after a finite repayment obligation.
+### From Restoration to Adventuring (Pending)
 
-They presented an accounting for excavation, extraction, transport, core stabilization, repair, and a replacement spellbook. Bert accepted the accounting as legitimate. It completed minor field work and adventures on the scholars' behalf until the assessed debt was paid.
+How Bert went from restoration to adventuring is still under discussion with the DM. The DM originally suggested that the Aurora Watch, Bazzoxan's military, saw Bert's usefulness and put it to work fighting demons and helping rebuild after battles. She has also agreed that Bert could owe the Allegiance a restoration debt.
 
-The replacement spellbook is a well-made but otherwise standard leatherbound tome. **SC-AFS-3-6** is embossed in the upper-right corner of its front cover. Bert uses normal wizard spellbook, preparation, copying, and spell-learning mechanics.
+Options under consideration:
 
-Once Bert completed the agreed service, the entire restoration team reneged on its promise and asserted continued control. Bert escaped. The exact escape remains open: the current barbarian or ranger may have helped, or they may have met Bert afterward.
+- **Field agent:** The Allegiance still employs Bert and sends it to historical battle sites suggested by its returning memories. In this version Bert may never have owed a debt. The DM responded favorably to this idea.
+- **Debt, betrayal, and escape (earlier draft):** The scholars recognized Bert as sentient and promised to release it once it repaid a finite debt for excavation, transport, core stabilization, repair, and the replacement spellbook. Bert repaid it through field work. The restoration team then broke its promise and asserted continued control, and Bert escaped. The institution quietly maintains its claim but avoids public pursuit, since scrutiny would expose its effort to keep a sentient construct. The betrayal made Bert hesitant to trust first impressions of modern organizations without tempering its desire to find one worth serving.
 
-The restoration team and its institution quietly maintain a claim over Bert but avoid overt public pursuit. Public scrutiny would expose their effort to retain a sentient construct after breaking the agreement.
-
-The betrayal made Bert hesitant to trust first impressions of modern organizations, but it did not temper its desire to find one worth serving. Bert remains wistful for the old squad's reliable structure and camaraderie. It seeks to enlist in an organization that can provide both without repeating the scholars' broken promises or claiming it as private property.
+In either version, Bert remains wistful for the old squad's reliable structure and camaraderie. It seeks to enlist in an organization that can provide both without claiming it as private property.
 
 ## Present Day
 
-Bert was reactivated approximately eighteen months before the campaign begins. Its restoration work, repayment, betrayal, escape, and roughly one year of intermittent jobs with the current party all fall within that period.
+Bert was reactivated approximately eighteen months before the campaign begins. Its restoration, the work that followed, and roughly one year of intermittent jobs with the current party all fall within that period.
 
-The party has already worked together several times and begins the campaign after a thirteen-day transport job from Asarius to Jigow. Whether the barbarian or ranger helped Bert escape, participated in its repayment work, or met it afterward remains a collaborative player decision.
+The party has already worked together several times and begins the campaign after a thirteen-day transport job from Asarius to Jigow. Any connection between Bert and the barbarian or ranger from before the party formed will be worked out in Session 0.
 
 Bert informally recognizes situational leadership within the party but does not require a commander. It offers occasional suggestions rather than orders. In combat it acts independently and tactically unless a companion demonstrates reliable tactical leadership.
 
@@ -171,26 +182,28 @@ Off duty, Bert slouches, sits around, and avoids unnecessary exertion. It enjoys
 
 ## Player Disclosure Boundary
 
-Safe to share:
+In character, Bert has told the party almost everything it remembers, except its feelings about being abandoned. The player-shareable document stays brief so that those stories can come out in play.
+
+Included in the player-shareable document:
 
 - Bert is an automaton using warforged rules and it/its pronouns.
 - Its designation, the meaning of SC-AFS-3-6, and the pronunciation "Skafis Three-Six."
-- Its broad military background and arcane fire-support role.
+- Its service during the Calamity and its arcane fire-support role.
 - The Battery-to-Bert nickname and unofficial "Specialist Bert" title.
 - Its literal demeanor, dry military humor, squad vocabulary, laziness, gambling, and combat professionalism.
 - Its appearance, Evocation specialization, standard spellbook mechanics, and soldier-taught finger guns.
-- That it is hesitant to trust first impressions of organizations but still wants structured service and reliable companions.
-- The broad history of its restoration, finite debt, the scholars' broken agreement, and its escape.
-- That a current party member may have participated in its repayment work or helped it escape if the players choose that connection.
+- That it remembers camp life vividly but its battles only in fragments, and that it lay buried for centuries after its final battle.
+- That the Allegiance of Allsight restored it.
 
-Do not initially share:
+Known to the party in character, but left for play:
 
-- The pre-service memory lock or unknown origin.
-- Lieutenant Veylan or the named ancient squad members.
+- Lieutenant Veylan and the named ancient squad members.
 - Jenkins and Danovic's deception.
-- The final battle, retreat, or fate of the squad.
-- The centuries of dormancy.
-- The identities of the restoration team or its sponsoring institution.
-- The details of the restoration process or the institution's possible future plans.
+- The surviving fragments of the final battle.
+- The details of the restoration and Bert's subsequent work.
 
-If another player chooses a connection to Bert's escape or repayment period, disclose only the details required for that shared history.
+Private:
+
+- The pre-service memory lock and unknown origin.
+- Bert's feelings of abandonment and its vague memory of the squad retreating without it.
+- The Allegiance's true nature and possible future plans.
