@@ -9,6 +9,7 @@ This repo also contains character information and plans that might spoil surpris
 ## Notes
 
 - [Character ideas](./Characters/Ideas/README.md)
+- [Campaign info](./Adventure-Notes/Campaign-Info/README.md)
 - [Session notes](./Adventure-Notes/Session-Notes/README.md)
 - [Dramatis personae](<Adventure-Notes/Dramatis personae.md>)
 - [Quests](Adventure-Notes/Quests.md)
