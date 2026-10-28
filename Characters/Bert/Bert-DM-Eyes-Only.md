@@ -24,6 +24,7 @@ Setting decisions, approvals, and unresolved campaign hooks are tracked in [Open
 | Modern timeline | Reactivated approximately eighteen months before the campaign |
 | Ancient service | The Calamity, on the side of the Prime Deities |
 | Restored by | Allegiance of Allsight |
+| Post-restoration service | Servitude sold by the Allegiance of Allsight to the Aurora Watch |
 | Current motivation | Learn what happened in its final battle and why it was left behind, while seeking an organization worthy of enlisting in |
 | Central theme | What Bert is worth after being discarded, and whether that worth can come from itself rather than usefulness, ownership, or orders |
 
@@ -159,13 +160,15 @@ The scholars established that the kingdom and army were gone and almost certainl
 
 The Allegiance provided Bert with a replacement spellbook. It is a well-made but otherwise standard leatherbound tome. **SC-AFS-3-6** is embossed in the upper-right corner of its front cover. Bert uses normal wizard spellbook, preparation, copying, and spell-learning mechanics.
 
-### Field Agent for the Allegiance
+### Sale into Aurora Watch Service
 
-Bert owes the Allegiance a restoration debt for its excavation, transport, core stabilization, repair, and replacement spellbook. Bert accepts the debt as legitimate and is working it off as a field agent. When a returning memory suggests a historical battle site, the Allegiance sends Bert to investigate it, and Bert takes on other adventuring work between assignments. The arrangement serves both sides: the scholars gain an ancient witness to the Calamity war, and Bert gains a way to pursue its fragmented memories.
+After restoring Bert, the Allegiance of Allsight sold its servitude to the **Aurora Watch**. This was part of its modern history, separate from its service in an as-yet unnamed army during the Calamity.
 
-The Allegiance is neutral and self-interested rather than villainous. Its scholars treat Bert fairly, but they value it mostly for what it remembers and can reach. Bert honors the arrangement but does not see the Allegiance's scholarly agenda as a worthy cause to serve. To Bert, it is an obligation to fulfill, not an organization to enlist in.
+The exact terms of the sale, Bert's duties for the Watch, and whether or how it was released to adventure remain open for the DM.
 
-Bert is glad to be in a squad environment again. The adventuring party gives it some of the camaraderie and shared purpose it misses from its old squad. While paying off its debt, Bert is also looking for the right combination of squad and cause: companions it can rely on, serving a purpose worth its loyalty, that would value it for more than its usefulness.
+The Allegiance is neutral and self-interested rather than villainous. Bert does not see its scholarly agenda as a worthy cause to enlist in.
+
+Bert is glad to be in a squad environment again. The adventuring party gives it some of the camaraderie and shared purpose it misses from its old squad. Alongside recovering its missing memories, Bert is also looking for the right combination of squad and cause: companions it can rely on, serving a purpose worth its loyalty, that would value it for more than its usefulness.
 
 ## Present Day
 
@@ -190,17 +193,16 @@ Included in the player-shareable document:
 - Its literal demeanor, dry military humor, squad vocabulary, laziness, gambling, and combat professionalism.
 - Its appearance, Evocation specialization, standard spellbook mechanics, and soldier-taught finger guns.
 - That it remembers camp life vividly but its battles only in fragments, and that it lay buried for centuries after its final battle.
-- That the Allegiance of Allsight restored it and still employs it as a field agent.
+- That the Allegiance of Allsight restored it, then sold its servitude to the Aurora Watch.
 
 Known to the party in character, but left for play:
 
 - Lieutenant Veylan and the named ancient squad members.
 - Jenkins and Danovic's deception.
 - The surviving fragments of the final battle.
-- The details of the restoration and Bert's field-agent assignments.
+- The details of the restoration.
 
 Private:
 
 - The pre-service memory lock and unknown origin.
 - Bert's feelings of abandonment and its vague memory of the squad retreating without it.
-- That Bert regards its work for the Allegiance as a debt to repay rather than a cause worth serving.

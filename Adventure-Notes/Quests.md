@@ -10,7 +10,13 @@
 ### Bert's Arm-Wrestling Challenge
 
 - Salaria and Evan, low-ranking soldiers in Bazzoxan, "ordered" Bert to travel to Jigow and challenge Maryl Bronzefang to arm wrestling.
-- **Status:** Bert has reached Jigow and is searching for Maryl. Vaeroth is accompanying Bert.
+- **Status:** Bert competed and lost badly. The notes do not identify its opponent or confirm whether the specific challenge to Maryl was completed.
+
+### Bert's Aurora Watch Debt
+
+- Recorded debt: **1,428 gp** to the Aurora Watch.
+- Gleb and Warren apparently took on Bert's debt after arm wrestling; the notes question the exact transfer.
+- **Status:** The notes say Bert no longer works for the Aurora Watch, but the terms of its release and any remaining debt obligations are unclear.
 
 ### Bert and Vaeroth's Missing Memories
 
@@ -18,4 +24,9 @@
 - The two are staying together because they may have answers to each other's riddles.
 - **Status:** They are together in Jigow; no explanation for the connection has been recorded.
 
-Recorded in [Session 0](<./Session-Notes/Session 0.md>).
+### Pie-Eating Contest
+
+- Gleb and Warren plan to enter the contest featuring pies made by Agathe Silverspoon.
+- **Status:** Planned; no result recorded.
+
+Recorded in [Session 0](<./Session-Notes/Session 0.md>) and [Session 1](<./Session-Notes/Session 1.md>).
