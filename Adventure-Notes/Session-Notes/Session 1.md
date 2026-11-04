@@ -47,7 +47,7 @@ Its personal mission is to understand Vaeroth's vision and how it fills in its m
 - Big two-handed axe.
 - Small backpack.
 
-##### Unlabeled Appearance Notes
+##### Vaeroth
 
 - Pale gray skin.
 - Shimmering grey hair to his shoulders, parted in the middle.
@@ -161,3 +161,5 @@ X X X X P X X
 ```
 
 ### Wrap up Notes
+
+Very tired.  Need to hard stop at 1.
