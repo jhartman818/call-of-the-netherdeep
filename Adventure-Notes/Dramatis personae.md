@@ -11,11 +11,11 @@
 
 ### NPCs
 
-| Name             | Location | Notes                                                                                                                       |
-| ---------------- | -------- | --------------------------------------------------------------------------------------------------------------------------- |
-| Salaria          | Bazzoxan | Low-ranking tiefling soldier. With Evan, "ordered" Bert to travel to Jigow and challenge Maryl Bronzefang to arm wrestling. |
-| Evan             | Bazzoxan | Low-ranking tiefling soldier. Joined Salaria in sending Bert to Jigow for the arm-wrestling challenge.                      |
-| Maryl Bronzefang | Jigow    | Target of Bert's arm-wrestling challenge. Session 1 also uses "Meryl"; the name has not been reconciled. |
-| Maggie | Jigow | Ogre near the arm-wrestling competition. Gave Vilarus a look to have the barbarians arrested. |
-| Durth Mirimm | Jigow | No-nonsense leader Vilarus reported to; isn't excited to be in Jigow. |
-| Agathe Silverspoon | Jigow | Made the pies for the pie-eating contest Gleb and Warren plan to enter. |
+| Name               | Location | Notes                                                                                                                       |
+| ------------------ | -------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Salaria            | Bazzoxan | Low-ranking tiefling soldier. With Evan, "ordered" Bert to travel to Jigow and challenge Maryl Bronzefang to arm wrestling. |
+| Evan               | Bazzoxan | Low-ranking tiefling soldier. Joined Salaria in sending Bert to Jigow for the arm-wrestling challenge.                      |
+| Maryl Bronzefang   | Jigow    | Target of Bert's arm-wrestling challenge. Session 1 also uses "Meryl"; the name has not been reconciled.                    |
+| Maggie             | Jigow    | Ogre near the arm-wrestling competition. Gave Vilarus a look to have the barbarians arrested.                               |
+| Durth Mirimm       | Jigow    | No-nonsense leader Vilarus reported to; isn't excited to be in Jigow.                                                       |
+| Agathe Silverspoon | Jigow    | Made the pies for the pie-eating contest Gleb and Warren plan to enter.                                                     |
