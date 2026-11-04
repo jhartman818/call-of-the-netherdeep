@@ -113,6 +113,12 @@ Its personal mission is to understand Vaeroth's vision and how it fills in its m
 - Gleb and Warren have started calling Bert Metal Man (M&M).
   - I might need some Eminem quotes.
 
+#### Warren gets healed
+
+* they went to the temple to heal him
+* got some lore(?)
+* *
+
 #### Riddles
 
 - All characters got the starry map.
@@ -137,6 +143,11 @@ One silver and calm, one scarlet with woe.
 Nigh all year, the red one yields
 To silver’s illusions, mischief, and shelt’ring glow.
 ```
+
+Cara is the silvery moon that is representative of a good diety
+There's a rumors of a cursed moon Ruidous.
+	If it appears and you are under it, you become cursed
+	Anyone born under that moon is considered cursed and they are always feared and have a tough time.
 
 ##### Line of Bottles
 

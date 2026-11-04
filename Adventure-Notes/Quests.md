@@ -26,7 +26,13 @@
 
 ### Pie-Eating Contest
 
-- Gleb and Warren plan to enter the contest featuring pies made by Agathe Silverspoon.
-- **Status:** Planned; no result recorded.
+- Gleb and Warren entered the contest featuring pies made by Agathe Silverspoon.
+- **Status:** Completed. Gleb may have won, but the result is unconfirmed. Warren needed healing afterward.
 
-Recorded in [Session 0](<./Session-Notes/Session 0.md>) and [Session 1](<./Session-Notes/Session 1.md>).
+### Festival of Merit: Emerald Grotto Final Challenge
+
+- Two teams were chosen at the fireworks gathering to race through the Emerald Grotto.
+- Ayo's team was selected first; the party was selected second, led by Vilarus.
+- **Status:** The party has been chosen. The race has not yet been recorded.
+
+Recorded in [Session 0](<./Session-Notes/Session 0.md>), [Session 1](<./Session-Notes/Session 1.md>), and [Session 2](<./Session-Notes/Session 2.md>).
