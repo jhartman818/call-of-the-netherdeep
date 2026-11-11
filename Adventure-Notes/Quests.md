@@ -5,6 +5,13 @@
 - The brothers were asked to go to Jigow "to stop the destruction of the town."
 - **Status:** Both have reached Jigow. The source and details of the request have not been recorded.
 
+### The Shackled Human's Plea
+
+- After touching an orb in the Emerald Grotto, the party experienced a vision of a shackled human.
+- His name was recorded as "Elixium"; the spelling is uncertain.
+- He invoked the Moonweaver, spoke of having prayed to the Changebringer in "this temple of evil," and asked the party to take his jewel.
+- **Status:** The session ended on a cliffhanger, mid-request, at "I beg you, take my jewel and..." The remainder of the plea is still pending.
+
 ## Side Quest Notes
 
 ### Bert's Arm-Wrestling Challenge
@@ -22,7 +29,8 @@
 
 - **Open thread:** Vaeroth had a vision involving Bert's army, then awoke in Bazzoxan with Bert over him.
 - The two are staying together because they may have answers to each other's riddles.
-- **Status:** They are together in Jigow; no explanation for the connection has been recorded.
+- **New lead:** A shackled human in the vision encountered after touching an orb in the Emerald Grotto seemed familiar to Bert, but Bert did not know why.
+- **Status:** The connection between Bert and Vaeroth remains unexplained. Any link to the figure in the vision is unconfirmed.
 
 ### Pie-Eating Contest
 
@@ -33,6 +41,9 @@
 
 - Two teams were chosen at the fireworks gathering to race through the Emerald Grotto.
 - Ayo's team was selected first; the party was selected second, led by Vilarus.
-- **Status:** The party has been chosen. The race has not yet been recorded.
+- **Objective:** Retrieve an amulet hidden in the grotto, matching the gold-and-emerald amulet displayed at the briefing, and return it to the podium.
+- **Announced reward:** 100 gp each and the title **Champions of Merit**.
+- **Progress:** Vilarus removed a spear from a shark's side, then cut a rope to free the challenge amulet from it. The party later followed Ayo's team up a secret passage to an orb and experienced a vision.
+- **Status:** Amulet recovered. Returning it to the podium to complete the race is still pending; the race outcome and reward are also pending.
 
-Recorded in [Session 0](<./Session-Notes/Session 0.md>), [Session 1](<./Session-Notes/Session 1.md>), and [Session 2](<./Session-Notes/Session 2.md>).
+Recorded in [Session 0](<./Session-Notes/Session 0.md>), [Session 1](<./Session-Notes/Session 1.md>), [Session 2](<./Session-Notes/Session 2.md>), and [Session 3](<./Session-Notes/Session 3.md>).
