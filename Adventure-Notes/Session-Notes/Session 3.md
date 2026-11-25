@@ -25,6 +25,7 @@ Some names from Ayo's team were missed during note-taking; the list below reflec
 - **Irvan:** No further details recorded.
 - **Maggie:** From the arm-wrestling competition.
 - **Galsariad:** The drow previously encountered at the swimming contest.
+- Dermot:
 
 #### Into the Emerald Grotto
 
@@ -47,12 +48,12 @@ Some names from Ayo's team were missed during note-taking; the list below reflec
 - After touching the orb, the party disappeared and reappeared somewhere unknown, where they saw a shackled human.
 - The figure seemed familiar to Bert, but Bert did not know why.
 - He may have had red veins in his face and appeared to have been crying; these details are uncertain.
-- His name was recorded as **"Elixium"**, but the spelling is uncertain.
+- His name was **"Alyxian"**, spelling confirmed
 
 Recorded fragments of his speech, possibly approximate:
 
 - "Moonweaver, guide them to this site where I first prayed."
-- "My name is Elixium. I'm lost in darkness."
+- "My name is Alyxian. I'm lost in darkness."
 - "Long ago, I prayed to the Changebringer in this temple of evil."
 - "I beg you, take my jewel and..."
 

@@ -6,27 +6,27 @@ Setting decisions, approvals, and unresolved campaign hooks are tracked in [Open
 
 ## At a Glance
 
-| Field | Detail |
-|---|---|
-| Rules | Warforged species, Evocation wizard |
-| D&D Beyond | [SC-AFS-3-6 character sheet](https://www.dndbeyond.com/characters/172372458) |
-| Fiction | Ancient sentient military automaton |
-| Pronouns | It/its |
-| Height | 5 feet 6 inches |
-| Weight | Approximately 240 pounds |
-| Age | Unknown; at least several centuries old, with a little more than a decade of remembered active life. D&D Beyond uses 926 as a required numeric placeholder. |
-| Personal name | Bert |
-| Formal designation | SC-AFS-3-6 |
-| Designation meaning | Support Construct - Arcane Fire-Support - Version 3 - Serial 6 |
-| Formal pronunciation | "Skafis Three-Six" |
-| Operational role | Arcane fire-support specialist |
-| Official historical status | Military property and equipment, not a soldier or legal person |
-| Modern timeline | Reactivated approximately eighteen months before the campaign |
-| Ancient service | The Calamity, on the side of the Prime Deities |
-| Restored by | Allegiance of Allsight |
-| Post-restoration service | Servitude sold by the Allegiance of Allsight to the Aurora Watch |
-| Current motivation | Learn what happened in its final battle and why it was left behind, while seeking an organization worthy of enlisting in |
-| Central theme | What Bert is worth after being discarded, and whether that worth can come from itself rather than usefulness, ownership, or orders |
+| Field                      | Detail                                                                                                                                                      |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Rules                      | Warforged species, Evocation wizard                                                                                                                         |
+| D&D Beyond                 | [SC-AFS-3-6 character sheet](https://www.dndbeyond.com/characters/172372458)                                                                                |
+| Fiction                    | Ancient sentient military automaton                                                                                                                         |
+| Pronouns                   | It/its                                                                                                                                                      |
+| Height                     | 5 feet 6 inches                                                                                                                                             |
+| Weight                     | Approximately 240 pounds                                                                                                                                    |
+| Age                        | Unknown; at least several centuries old, with a little more than a decade of remembered active life. D&D Beyond uses 926 as a required numeric placeholder. |
+| Personal name              | Bert                                                                                                                                                        |
+| Formal designation         | SC-AFS-3-6                                                                                                                                                  |
+| Designation meaning        | Support Construct - Arcane Fire-Support - Version 3 - Serial 6                                                                                              |
+| Formal pronunciation       | "Skafis Three-Six"                                                                                                                                          |
+| Operational role           | Arcane fire-support specialist                                                                                                                              |
+| Official historical status | Military property and equipment, not a soldier or legal person                                                                                              |
+| Modern timeline            | Reactivated approximately eighteen months before the campaign                                                                                               |
+| Ancient service            | The Calamity, on the side of the Prime Deities                                                                                                              |
+| Restored by                | Allegiance of Allsight                                                                                                                                      |
+| Post-restoration service   | Servitude sold by the Allegiance of Allsight to the Aurora Watch                                                                                            |
+| Current motivation         | Learn what happened in its final battle and why it was left behind, while seeking an organization worthy of enlisting in                                    |
+| Central theme              | What Bert is worth after being discarded, and whether that worth can come from itself rather than usefulness, ownership, or orders                          |
 
 ## Character Core
 
